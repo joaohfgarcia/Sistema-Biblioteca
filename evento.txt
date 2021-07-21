@@ -1,0 +1,87 @@
+evento1
+03/12/2020
+20:00
+auditorio2
+joão
+(83) 99999-9999
+100
+eventoteste
+04/12/2020
+16:12
+João
+joão
+(83) 99999-9999
+1000
+reunião
+04/12/2020
+20:00
+auditório
+aluno sistemas
+(83) 99991-5151
+50
+evento1
+03/12/2020
+20:00
+auditorio2
+joão
+(83) 99999-9999
+100
+eventoteste
+04/12/2020
+16:12
+João
+joão
+(83) 99999-9999
+1000
+reunião
+04/12/2020
+20:00
+auditório
+aluno sistemas
+(83) 99991-5151
+50
+
+evento1
+03/12/2020
+20:00
+auditorio2
+joão
+(83) 99999-9999
+100
+eventoteste
+04/12/2020
+16:12
+João
+joão
+(83) 99999-9999
+1000
+reunião
+04/12/2020
+20:00
+auditório
+aluno sistemas
+(83) 99991-5151
+50
+evento1
+03/12/2020
+20:00
+auditorio2
+joão
+(83) 99999-9999
+100
+eventoteste
+04/12/2020
+16:12
+João
+joão
+(83) 99999-9999
+1000
+reunião
+04/12/2020
+20:00
+auditório
+aluno sistemas
+(83) 99991-5151
+50
+
+

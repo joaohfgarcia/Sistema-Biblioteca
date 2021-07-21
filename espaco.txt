@@ -1,0 +1,12 @@
+sala de leitura
+6
+true
+auditório
+100
+true
+cabine de estudo
+1
+true
+sala de leitura 02
+12
+true

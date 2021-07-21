@@ -1,0 +1,42 @@
+sidarta
+HESSE,hermann
+record
+são paulo
+SP
+2019
+63
+58426406
+Livros
+Literatura 
+true
+0
+5
+1
+sidarta
+HESSE,hermann
+record
+são paulo
+SP
+2019
+63
+58426406
+Livros
+Literatura 
+true
+0
+5
+1
+o guarani
+ALENCAR,josé
+martin claret
+são paulo
+SP
+2005
+12
+5242255
+Livros
+Literatura 
+true
+6
+1
+1

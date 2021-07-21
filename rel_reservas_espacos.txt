@@ -1,0 +1,36 @@
+---------------------  MORAIS LIBRARY  --------------------
+-------------------- ESPAÇOS RESERVADOS -------------------
+
+        Responsável.: taisia@taisia.com
+        Espaço......: sala de leitura
+        Data........: 11/11/1111
+        Hora........: 11:11
+        Descrição...: aaaaa
+
+        Responsável.: taisia@taisia.com
+        Espaço......: auditório
+        Data........: 11/11/1111
+        Hora........: 11:11
+        Descrição...: dasfasdfsdfasd
+
+        Responsável.: taisia@taisia.com
+        Espaço......: cabine de estudo
+        Data........: 22/22/2222
+        Hora........: 11:11
+        Descrição...: dsdsddss
+
+        Responsável.: taisia@taisia.com
+        Espaço......: sala de leitura
+        Data........: 11/11/1111
+        Hora........: 12:22
+        Descrição...: dfsdfsdaf
+
+        Responsável.: aluno@iesp.com
+        Espaço......: sala de leitura
+        Data........: 04/12/2020
+        Hora........: 20:00
+        Descrição...: estudar
+
+        5 RESERVAS DE ESPAÇO!
+
+---------------------------  //  --------------------------

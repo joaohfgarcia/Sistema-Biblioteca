@@ -1,0 +1,20 @@
+---------------------   MORAIS LIBRARY  ----------------------
+--------------------- RELATÓRIO DE FICHAS --------------------
+
+        Titulo.......: Ficha1
+        Autor........: GARCIA,joão
+        Tipo.........: Monografia(Graduação)
+        Orientador...: Taísia Honório
+        Situação.....: solicitada
+        Solicitação..: 03/12/2020
+
+        Titulo.......: ficha 2
+        Autor........: HONÓRIO,taísia
+        Tipo.........: Monografia(Graduação)
+        Orientador...: joão garcia
+        Situação.....: solicitada
+        Solicitação..: 04/12/2020
+
+        2 FICHAS CADASTRADAS!
+
+---------------------------  //  --------------------------
